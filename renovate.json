@@ -20,7 +20,7 @@
     {
       "datasources": ["npm"],
       "matchPackageNames": ["@patternfly/documentation-framework", "@patternfly/patternfly-a11y"],
-      "groupName": "patternfly",
+      "groupName": "patternfly", 
       "followTag": "latest"
     }
   ]
