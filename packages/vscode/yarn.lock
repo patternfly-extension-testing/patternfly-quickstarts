@@ -300,16 +300,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@patternfly/patternfly@npm:^6.3.1":
-  version: 6.4.0
-  resolution: "@patternfly/patternfly@npm:6.4.0"
-  checksum: 10c0/255c22e04a7649c9373790dbc66f97e2f01a121a843d3bc27627596f35296cc7f2228447d5866f63f17bccd36bae24ec68c45e1572778285dea617086d309737
+"@patternfly/patternfly@npm:^6.5.0-prerelease.63":
+  version: 6.5.0-prerelease.63
+  resolution: "@patternfly/patternfly@npm:6.5.0-prerelease.63"
+  checksum: 10c0/f834cae782b0e45058c53bbaa30a7d694c7a28a1fa5f4abd326cbc56eb69d16e0376861ccdfa5a36f76771cdd2007faf78ae1bd62d054c45996d4b577e2e590b
   languageName: node
   linkType: hard
 
-"@patternfly/quickstarts@npm:^6.0.0-prerelease.0":
-  version: 6.4.0
-  resolution: "@patternfly/quickstarts@npm:6.4.0"
+"@patternfly/quickstarts@npm:^6.5.0-prerelease.4":
+  version: 6.5.0-prerelease.4
+  resolution: "@patternfly/quickstarts@npm:6.5.0-prerelease.4"
   dependencies:
     dompurify: "npm:^3.2.4"
     history: "npm:^5.0.0"
@@ -318,7 +318,7 @@ __metadata:
     marked: ^15.0.6
     react: ^17 || ^18 || ^19
     react-dom: ^17 || ^18 || ^19
-  checksum: 10c0/c45b9e7a2cc3735fc27d938960cc08c98ebc5fab5c3892ce04376d7238c89c122cfeade7d64296c843a515e7512602b8b4fb0014e27096e43eab860743dbe5d4
+  checksum: 10c0/51962d7d6e229b28a17e959f3fb5edb2852ec6fcf49943cb82575878515292ceebdeae41c318cfe11eab995163cb9b68095a3aaaf70f8a5c0b02a9b25d37ecbb
   languageName: node
   linkType: hard
 
@@ -3107,7 +3107,7 @@ __metadata:
 "picomatch@npm:^2.0.4, picomatch@npm:^2.3.1":
   version: 2.3.1
   resolution: "picomatch@npm:2.3.1"
-  checksum: 10c0-26c02b8d06f03206fc2ab8d16f19960f2ff9e81a658f831ecb656d8f17d9edc799e8364b1f4a7873e89d9702dff96204be0fa26fe4181f6843f040f819dac4be
+  checksum: 10c0/10c0-26c02b8d06f03206fc2ab8d16f19960f2ff9e81a658f831ecb656d8f17d9edc799e8364b1f4a7873e89d9702dff96204be0fa26fe4181f6843f040f819dac4be
   languageName: node
   linkType: hard
 
@@ -3251,8 +3251,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "quickstarts-preview@workspace:."
   dependencies:
-    "@patternfly/patternfly": "npm:^6.3.1"
-    "@patternfly/quickstarts": "npm:^6.0.0-prerelease.0"
+    "@patternfly/patternfly": "npm:^6.5.0-prerelease.63"
+    "@patternfly/quickstarts": "npm:^6.5.0-prerelease.4"
     "@types/js-yaml": "npm:^4.0.0"
     "@types/mocha": "npm:^2.2.42"
     "@types/node": "npm:^10.12.21"
